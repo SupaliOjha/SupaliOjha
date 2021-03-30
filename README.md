@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/SupaliOjha/SupaliOjha/master/assest/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
 <h1 align="center">Hi, I'm Supali Ojha👋</h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SupaliOjha.SupaliOjha)
@@ -14,7 +14,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - ⚡ I’m currently learning about Computer Vision.
 - 💬 Ask me about anything, I'll be glad to help.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/SupaliOjha/master/assest/coder.gif" alt="codergif" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/coder.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 

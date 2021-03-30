@@ -37,7 +37,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 ## Contact Me ☎️
 
 * Mail me on [Gmail](sd.supali.ojha.dtk@gmail.com) 
-* Connect me on [LinkedIn](linkedin.com/in/supali-ojha)
+* Connect me on [LinkedIn](www.linkedin.com/in/supali-ojha)
 * Follow me on  [Instagram](https://instagram.com/supalis_world?igshid=1alnj7g8wq61e)
 
 Thanks for visiting!! ✌️

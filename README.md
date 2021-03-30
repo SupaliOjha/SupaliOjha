@@ -12,7 +12,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 
 - 🔭 I’m currently contributing to some open source.
 - ⚡ I’m currently learning about Computer Vision.
-- 💬 Ask me about anything, will be glad to help.
+- 💬 Ask me about anything, I'll be glad to help.
 
 <p align="center"> <img src="https://raw.githubusercontent.com/vrindagupta6828/SupaliOjha/master/assest/coder.gif" alt="codergif" /> </p>
 

@@ -10,9 +10,9 @@
 
 I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from JIS College Of Engineering. Also have completed the Diploma Engineering in Computer Science And Technology from Regent Institute Of Science And Technology. I have a curiosity to explore and learn new things. I'm passionate about Web Development and Machine learning. 
 
-- 🔭 I’m currently contributing to some open source.
-- ⚡ I’m currently learning about Computer Vision.
-- 💬 Ask me about anything, I'll be glad to help.
+- 💫 I’m currently contributing to some open source.
+- 👩🏻‍💻 I’m currently learning about Computer Vision.
+- 💁🏻‍♀️ Ask me about anything, I'll be glad to help.
 
 <p align="center"> <img src="https://github.com/SupaliOjha/SupaliOjha/blob/main/asset/coder%20girl.gif" alt="codergif" /> </p>
 

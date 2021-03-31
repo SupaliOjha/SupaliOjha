@@ -52,6 +52,7 @@ Thanks for visiting!! ✌️
 <a href="https://github.com/SupaliOjha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupaliOjha&show_icons=true&theme=radical&count_private=true" alt="SupaliOjha github stats" />
 </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SupaliOjha&" alt="SupaliOjha" /></p>
 <br />
 <br />
 

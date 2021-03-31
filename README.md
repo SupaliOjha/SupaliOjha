@@ -14,7 +14,7 @@ I'm an Indian Undergraduate Student currently undertaking a Bachelors in Compute
 - ⚡ I’m currently learning about Computer Vision.
 - 💬 Ask me about anything, I'll be glad to help.
 
-<p align="center"> <img src="https://github.com/SupaliOjha/SupaliOjha/blob/main/asset/coder.gif" alt="codergif" /> </p>
+<p align="center"> <img src="https://github.com/SupaliOjha/SupaliOjha/blob/main/asset/coder%20girl.gif" alt="codergif" /> </p>
 
 ## Languages and Tools  
 
